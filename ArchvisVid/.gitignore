@@ -1,3 +1,3 @@
 # Build and Release Folders
-Intermediate/
-Saved/
+Intermediate/**
+Saved/**
